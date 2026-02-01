@@ -192,8 +192,8 @@ December 2025
 
 ## 📄 License
 
-This project is part of the Future Interns Cyber Security Internship program.
 
+#Mit license
 ---
 
 **Last Updated:** December 28, 2025
